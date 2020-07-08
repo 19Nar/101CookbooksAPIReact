@@ -1,0 +1,16 @@
+.card-img-overlay {
+  color: white;
+  font-size: 0.em;
+}
+
+.card .card-img {
+  margin-top: 0.5em;
+  display: grid;
+  grid-template-columns: 60px 60px;
+  grid-gap: 5px;
+  flex-shrink: 0;
+  width: 500px;
+  height: 300px;
+  box-shadow: 0 0 15px 11px black;
+  box-sizing: 40%;
+}

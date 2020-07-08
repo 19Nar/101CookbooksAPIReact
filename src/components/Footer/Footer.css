@@ -1,0 +1,15 @@
+.foot {
+  background-color: black;
+  margin-top: 0.5em;
+  position: relative;
+  padding: 0.5em;
+  text-decoration: none;
+  color: white;
+}
+.footer a {
+    color: white;
+    margin-left: 35em;
+}
+.footer a:hover {
+  color: grey;
+}
