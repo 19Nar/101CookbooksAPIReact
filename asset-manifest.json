@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/101CookbooksAPIReact/static/css/main.24bdf9a7.chunk.css",
-    "main.js": "/101CookbooksAPIReact/static/js/main.e9b2b8a7.chunk.js",
-    "main.js.map": "/101CookbooksAPIReact/static/js/main.e9b2b8a7.chunk.js.map",
-    "runtime-main.js": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js",
-    "runtime-main.js.map": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.dbb371be.chunk.js": "/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js",
-    "static/js/2.dbb371be.chunk.js.map": "/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js.map",
-    "index.html": "/101CookbooksAPIReact/index.html",
-    "precache-manifest.572258d975105ab5038613dc644258ba.js": "/101CookbooksAPIReact/precache-manifest.572258d975105ab5038613dc644258ba.js",
-    "service-worker.js": "/101CookbooksAPIReact/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.24bdf9a7.chunk.css.map": "/101CookbooksAPIReact/static/css/main.24bdf9a7.chunk.css.map",
-    "static/js/2.dbb371be.chunk.js.LICENSE.txt": "/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js.LICENSE.txt",
-    "static/media/About.css": "/101CookbooksAPIReact/static/media/WELCOME.06ac5430.jpg",
-    "static/media/facebook.jpg": "/101CookbooksAPIReact/static/media/facebook.8f2e05e0.jpg",
-    "static/media/insta.jpg": "/101CookbooksAPIReact/static/media/insta.dd1c3c6b.jpg",
-    "static/media/youtube.jpg": "/101CookbooksAPIReact/static/media/youtube.3fea4d66.jpg"
+    "main.css": "/NVM/static/css/main.781a8c6b.chunk.css",
+    "main.js": "/NVM/static/js/main.a34dadc9.chunk.js",
+    "main.js.map": "/NVM/static/js/main.a34dadc9.chunk.js.map",
+    "runtime-main.js": "/NVM/static/js/runtime-main.eb4caf2e.js",
+    "runtime-main.js.map": "/NVM/static/js/runtime-main.eb4caf2e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/NVM/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dbb371be.chunk.js": "/NVM/static/js/2.dbb371be.chunk.js",
+    "static/js/2.dbb371be.chunk.js.map": "/NVM/static/js/2.dbb371be.chunk.js.map",
+    "index.html": "/NVM/index.html",
+    "precache-manifest.ad8d3006211d7613958d14f6f0060672.js": "/NVM/precache-manifest.ad8d3006211d7613958d14f6f0060672.js",
+    "service-worker.js": "/NVM/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/NVM/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.781a8c6b.chunk.css.map": "/NVM/static/css/main.781a8c6b.chunk.css.map",
+    "static/js/2.dbb371be.chunk.js.LICENSE.txt": "/NVM/static/js/2.dbb371be.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/NVM/static/media/WELCOME.06ac5430.jpg",
+    "static/media/facebook.jpg": "/NVM/static/media/facebook.8f2e05e0.jpg",
+    "static/media/insta.jpg": "/NVM/static/media/insta.dd1c3c6b.jpg",
+    "static/media/youtube.jpg": "/NVM/static/media/youtube.3fea4d66.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4ff54fc.js",
+    "static/js/runtime-main.eb4caf2e.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.dbb371be.chunk.js",
-    "static/css/main.24bdf9a7.chunk.css",
-    "static/js/main.e9b2b8a7.chunk.js"
+    "static/css/main.781a8c6b.chunk.css",
+    "static/js/main.a34dadc9.chunk.js"
   ]
 }
