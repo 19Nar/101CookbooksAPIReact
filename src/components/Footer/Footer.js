@@ -7,7 +7,7 @@ const Footer = () => {
 
       <div className="foot">
         <span className="footer">
-          <a href="/">© NVM, 2020</a>
+          <a href="/">© 101 Cookbooks, 2020</a>
         </span>
       </div>
     );

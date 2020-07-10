@@ -1,5 +1,4 @@
 import React from 'react';
-//import PropTypes from 'prop-types';
 import { UncontrolledCarousel } from 'reactstrap';
 
 import "./Home.css";
@@ -46,15 +45,6 @@ const items = [
 ];
 
 const CarouselResults = () => <UncontrolledCarousel items={items} />
-
-
-
-/*CarouselResults.propTypes = {
-  items: PropTypes.array.isRequired,
-  indicators: PropTypes.bool, // default: true
-  controls: PropTypes.bool, 
-  autoPlay: PropTypes.bool, 
-}*/
 
 export default CarouselResults;
 

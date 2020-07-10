@@ -1,14 +1,16 @@
 .Welcome {
-    background-image: url(./welcome.png);
-    width: 100%;
-    margin-bottom: 4em;
+  background-image: url(./WELCOME.jpg);
 }
 
-h5 {
-    box-shadow: 0 0 9px 8px black;
-    margin-right: 10em;
-    margin-left: 10em;
-    padding: 1em;
-    font-style: italic;
+img {
+  width: 250px;
+}
 
+.mytext {
+  box-shadow: 0 0 15px 6px black;
+  margin-right: 5em;
+  margin-left: 16em;
+  padding: 1em;
+  font-style: italic;
+  margin-bottom: 6.5rem;
 }

@@ -17,11 +17,10 @@ const Sidebar = () => {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <div className="back">
-      <Navbar light expand="md">
+      <Navbar className="nav" light expand="md">
         <NavbarBrand>
           <Link className={"mx-3 link"} to="/">
-            N M V
+          101 Cookbooks
           </Link>
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
@@ -42,8 +41,6 @@ const Sidebar = () => {
           </Nav>
         </Collapse>
       </Navbar>
-      <hr />
-    </div>
   );
 };
 

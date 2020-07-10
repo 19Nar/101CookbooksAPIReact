@@ -1,26 +1,30 @@
-.link {
-    padding: 0 1.5em;
-    margin-right: 1.5em;
-    color: white;
-    box-shadow: 0 0 3px 3px white;
-    
+.nav.nav.navbar.navbar-expand-md.navbar-light {
+  position: relative;
+  width: 100%;
+  
 }
 
-.back {
-    padding-top: 1em;
-    background-color: black;
-    margin-bottom: -0.5em;
-   
+.link {
+  padding: 0 1.5em;
+  margin-right: 1.5em;
+  color: white;
+  box-shadow: 0 0 3px 3px white;
+}
+
+.nav {
+  padding-top: 1em;
+  background-color: black;
+ /* margin-bottom: -0.5em;*/
 }
 
 a.mx-3.link:hover {
-    color: grey;
+  color: grey;
 }
 
 .link:hover {
-    color: grey;
+  color: grey;
 }
 
 .navbar-light .navbar-toggler-icon {
-    background-color: white;
+  background-color: white;
 }

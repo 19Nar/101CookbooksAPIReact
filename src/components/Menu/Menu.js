@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "reactstrap";
 import MenuResults from "./MenuResults";
 
-function Menu() {
+const Menu = () => {
   const [meals, setMeals] = useState([]);
   useEffect(() => {
     fetch(`https://forkify-api.herokuapp.com/api/search?q=pizza`)

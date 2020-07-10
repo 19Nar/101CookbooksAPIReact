@@ -10,23 +10,21 @@ import Footer from "./components/Footer/Footer";
 
 const App = (props) => (
   <Router>
-    <div>
-      <Navbar />
-      <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
-        <Route path="/about">
-          <About />
-        </Route>
-        <Route path="/menu">
-          <Menu />
-        </Route>
-        <Route path="/contact">
-          <Contact />
-        </Route>
-      </Switch>
-    </div>
+    <Navbar />
+    <Switch>
+      <Route exact path="/">
+        <Home />
+      </Route>
+      <Route path="/about">
+        <About />
+      </Route>
+      <Route path="/menu">
+        <Menu />
+      </Route>
+      <Route path="/contact">
+        <Contact />
+      </Route>
+    </Switch>
     <Footer />
   </Router>
 );

@@ -1,28 +1,8 @@
-.contact {
-    position: relative;
-    top: 20em;
-    left: 15em;
-    text-align: left;
-  }
-  
-  .contact-content ul div {
-    display: inline;
-    padding-right: 2em;
-  }
-  
-  .contact h1 {
-    font-family: "Montserrat", sans-serif;
-    font-size: 5em;
-    text-align: left;
-  }
-  
-  .contact a {
-    text-decoration: none;
-    color: black;
-  }
-  
-  .contact img {
-    max-width: 40px;
-    max-height: 50px;
-  }
-  
+.text-white {
+  box-shadow: 0 0 16px 16px black;
+  padding-top: 2em;
+}
+
+h4 {
+  margin-left: 4rem;
+}
