@@ -9,6 +9,8 @@ import {
   CardLink,
 } from "reactstrap";
 
+import LikeButton from "./LikeButton";
+
 import "./Menu.css";
 
 const MenuResults = ({ meals }) => {
@@ -26,6 +28,7 @@ const MenuResults = ({ meals }) => {
             <CardLink href={meals.publisher_url}> Publisher</CardLink>
             <CardLink href={meals.source_url}> Source</CardLink>
             </div>
+            <LikeButton />
         </CardBody>
       </Card>
     </Col>
