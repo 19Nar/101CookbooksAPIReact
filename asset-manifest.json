@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/19Nar/101CookbooksAPIReact/static/css/main.735880b5.chunk.css",
+    "main.js": "/19Nar/101CookbooksAPIReact/static/js/main.2634f336.chunk.js",
+    "main.js.map": "/19Nar/101CookbooksAPIReact/static/js/main.2634f336.chunk.js.map",
+    "runtime-main.js": "/19Nar/101CookbooksAPIReact/static/js/runtime-main.cfa04fe7.js",
+    "runtime-main.js.map": "/19Nar/101CookbooksAPIReact/static/js/runtime-main.cfa04fe7.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/19Nar/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dbb371be.chunk.js": "/19Nar/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js",
+    "static/js/2.dbb371be.chunk.js.map": "/19Nar/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js.map",
+    "index.html": "/19Nar/101CookbooksAPIReact/index.html",
+    "precache-manifest.ff4c75cf9f44f62e000777451235f0a8.js": "/19Nar/101CookbooksAPIReact/precache-manifest.ff4c75cf9f44f62e000777451235f0a8.js",
+    "service-worker.js": "/19Nar/101CookbooksAPIReact/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/19Nar/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.735880b5.chunk.css.map": "/19Nar/101CookbooksAPIReact/static/css/main.735880b5.chunk.css.map",
+    "static/js/2.dbb371be.chunk.js.LICENSE.txt": "/19Nar/101CookbooksAPIReact/static/js/2.dbb371be.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/19Nar/101CookbooksAPIReact/static/media/WELCOME.06ac5430.jpg",
+    "static/media/facebook.jpg": "/19Nar/101CookbooksAPIReact/static/media/facebook.8f2e05e0.jpg",
+    "static/media/insta.jpg": "/19Nar/101CookbooksAPIReact/static/media/insta.dd1c3c6b.jpg",
+    "static/media/youtube.jpg": "/19Nar/101CookbooksAPIReact/static/media/youtube.3fea4d66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa04fe7.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dbb371be.chunk.js",
+    "static/css/main.735880b5.chunk.css",
+    "static/js/main.2634f336.chunk.js"
+  ]
+}
