@@ -17,7 +17,7 @@ const Sidebar = () => {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-      <Navbar className="nav" light expand="md">
+      <Navbar fixed="top" className="nav" light expand="md">
         <NavbarBrand>
           <Link className={"mx-3 link"} to="/">
           101 Cookbooks
