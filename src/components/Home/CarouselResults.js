@@ -5,7 +5,7 @@ import "./Home.css";
 
 const items = [
   {
-    src: "http://forkify-api.herokuapp.com/images/best_pizza_dough_recipe1b20.jpg",
+    src: "http://forkify-api.herokuapp.com/images/burger53be.jpg",
     caption: '101 Cookbooks',
     header: 'Best Pizza Dough Ever',
     key: '1'
