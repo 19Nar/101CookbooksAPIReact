@@ -1,11 +1,12 @@
 .foot {
+  position: static;
   background-color: black;
   position: relative;
   padding: 0.5em;
   text-decoration: none;
   color: white;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
 }
 .footer a {
     color: white;
