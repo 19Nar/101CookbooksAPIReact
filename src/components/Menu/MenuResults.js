@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  Col,
-  Card,
-  CardImg,
-  CardText,
-  CardBody,
-  CardLink,
-} from "reactstrap";
+import { Col, Card, CardImg, CardText, CardBody, CardLink } from "reactstrap";
 
 import LikeButton from "./LikeButton";
 
