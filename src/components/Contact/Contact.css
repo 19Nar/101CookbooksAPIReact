@@ -1,8 +1,13 @@
 .text-white {
   box-shadow: 0 0 16px 16px black;
-  padding-top: 2em;
+  padding-top: 2em; 
 }
 
 h4 {
   margin-left: 4rem;
+}
+
+.bg-dark {
+margin-top: 6rem;
+margin-bottom: 2rem;
 }

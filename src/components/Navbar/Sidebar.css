@@ -1,7 +1,6 @@
 .nav.nav.navbar.navbar-expand-md.navbar-light {
-  position: relative;
+  position: fixed;
   width: 100%;
-  
 }
 
 .link {

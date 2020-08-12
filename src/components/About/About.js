@@ -4,6 +4,9 @@ import "./About.css";
 const About = () => {
   return (
     <div>
+      <hr></hr>
+      <hr></hr>
+
       <img src={welcome} alt="Welcome" />
       <h5 className="mytext">
         101 Cookbooks started in early 2020 when I realized that I could help

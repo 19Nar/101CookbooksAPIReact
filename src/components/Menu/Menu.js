@@ -21,6 +21,6 @@ const Menu = () => {
       </Row>
     </Container>
   );
-}
+};
 
 export default Menu;

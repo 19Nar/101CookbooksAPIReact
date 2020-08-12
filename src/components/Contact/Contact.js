@@ -43,7 +43,7 @@ const Contact = () => {
   return (
     <div className="flex">
       <div className="w-1/2 container mx-auto mt-5">
-        <form className="form bg-dark text-white  px-8 pt-6 pb-8 mb-4 self-center">
+        <form className="form bg-dark text-white  px-8 pt-6 pb-8 mb-8 self-center">
           <label
             className="block m-2 text-gray-700 text-sm font-bold"
             htmlFor="name"
