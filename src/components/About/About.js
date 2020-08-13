@@ -18,7 +18,7 @@ const About = () => {
             explore their new talents. This site aimed to change the life of the
             ones who love to experiment. It does not matter whether each
             experiment is successful or not. What is important is that you keep
-            experimenting. Edison experimented over 10,000 times before he
+            experimenting. Edison experimented over 10,000 times before she
             invented the light bulb.
             <img src={welcome} alt="WELCOME" />
             <img src={pic} alt="Pic" />
