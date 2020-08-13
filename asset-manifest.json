@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/101CookbooksAPIReact/static/css/main.7f2a0610.chunk.css",
-    "main.js": "/101CookbooksAPIReact/static/js/main.48000b45.chunk.js",
-    "main.js.map": "/101CookbooksAPIReact/static/js/main.48000b45.chunk.js.map",
+    "main.css": "/101CookbooksAPIReact/static/css/main.12c7a12f.chunk.css",
+    "main.js": "/101CookbooksAPIReact/static/js/main.8d75db20.chunk.js",
+    "main.js.map": "/101CookbooksAPIReact/static/js/main.8d75db20.chunk.js.map",
     "runtime-main.js": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js",
     "runtime-main.js.map": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js.map",
     "static/css/2.829c9cb5.chunk.css": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.51a27628.chunk.js": "/101CookbooksAPIReact/static/js/2.51a27628.chunk.js",
-    "static/js/2.51a27628.chunk.js.map": "/101CookbooksAPIReact/static/js/2.51a27628.chunk.js.map",
+    "static/js/2.fec33f89.chunk.js": "/101CookbooksAPIReact/static/js/2.fec33f89.chunk.js",
+    "static/js/2.fec33f89.chunk.js.map": "/101CookbooksAPIReact/static/js/2.fec33f89.chunk.js.map",
     "index.html": "/101CookbooksAPIReact/index.html",
-    "precache-manifest.8dfa8a9bba3aa0d91b8965fadbd3d697.js": "/101CookbooksAPIReact/precache-manifest.8dfa8a9bba3aa0d91b8965fadbd3d697.js",
+    "precache-manifest.da86641f6402ddaea2af686fdb8933f5.js": "/101CookbooksAPIReact/precache-manifest.da86641f6402ddaea2af686fdb8933f5.js",
     "service-worker.js": "/101CookbooksAPIReact/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.7f2a0610.chunk.css.map": "/101CookbooksAPIReact/static/css/main.7f2a0610.chunk.css.map",
-    "static/js/2.51a27628.chunk.js.LICENSE.txt": "/101CookbooksAPIReact/static/js/2.51a27628.chunk.js.LICENSE.txt",
-    "static/media/About.css": "/101CookbooksAPIReact/static/media/WELCOME.06ac5430.jpg",
+    "static/css/main.12c7a12f.chunk.css.map": "/101CookbooksAPIReact/static/css/main.12c7a12f.chunk.css.map",
+    "static/js/2.fec33f89.chunk.js.LICENSE.txt": "/101CookbooksAPIReact/static/js/2.fec33f89.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/101CookbooksAPIReact/static/media/WELCOME.503a3a31.jpg",
     "static/media/facebook.jpg": "/101CookbooksAPIReact/static/media/facebook.8f2e05e0.jpg",
     "static/media/insta.jpg": "/101CookbooksAPIReact/static/media/insta.dd1c3c6b.jpg",
+    "static/media/pic.jpg": "/101CookbooksAPIReact/static/media/pic.c644d1f2.jpg",
     "static/media/youtube.jpg": "/101CookbooksAPIReact/static/media/youtube.3fea4d66.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4ff54fc.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.51a27628.chunk.js",
-    "static/css/main.7f2a0610.chunk.css",
-    "static/js/main.48000b45.chunk.js"
+    "static/js/2.fec33f89.chunk.js",
+    "static/css/main.12c7a12f.chunk.css",
+    "static/js/main.8d75db20.chunk.js"
   ]
 }
