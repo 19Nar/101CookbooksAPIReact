@@ -2,16 +2,22 @@
   background-image: url(./WELCOME.jpg);
 }
 
-img {
-  margin-top: 5rem;
-  width: 250px;
+p img {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  margin-left: 0.2rem;
+  margin-right: 5rem;
+  width: 450px;
+  height: 350px;
+  box-shadow: 0 0 17px 5px black;
 }
 
-.mytext {
-  box-shadow: 0 0 15px 6px black;
-  margin-right: 5em;
-  margin-left: 16em;
-  padding: 1em;
-  font-style: italic;
-  margin-bottom: 6.5rem;
+.profile {
+  margin-top: 4.5em;
+  padding: 1rem;
+  box-shadow: 0 0 5px black;
+}
+
+.test {
+  margin-top: 5rem;
 }

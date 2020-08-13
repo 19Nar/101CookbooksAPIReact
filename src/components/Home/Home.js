@@ -1,12 +1,11 @@
 import React from "react";
 
 import CarouselResults from "./CarouselResults";
+import "./Home.css";
 
 const Home = () => {
   return (
     <>
-      <hr></hr>
-      <hr></hr>
       <CarouselResults />
     </>
   );

@@ -11,7 +11,7 @@ const MenuResults = ({ meals }, item) => (
       <Card className="mycard">
         <CardImg src={meals.image_url} alt="Card image cap" />
         <CardBody>
-          <CardText className="text">Recipe ID: {meals.recipe_id}</CardText>
+          <CardText>Recipe ID: {meals.recipe_id}</CardText>
           <CardLink href={meals.publisher_url}> Publisher</CardLink>
           <CardLink href={meals.source_url}> Source</CardLink>
           <LikeButton itemId={item.id} />
