@@ -31,7 +31,6 @@ const Map = () => {
             recipes, whole foods recipes, and vegan recipes, plus the occasional
             sweet treat.
             <hr></hr>
-            
           </h6>
 
           <a href="https://www.facebook.com/101cookbooks">
