@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93198ff08c05babcd3db66709b2d2956",
+    "revision": "7e5df6bb2b5aa8cbdb6b64a28e4fa889",
     "url": "/101CookbooksAPIReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "242170dfbad68893a608",
-    "url": "/101CookbooksAPIReact/static/css/main.f80662e8.chunk.css"
+    "revision": "aa2b0c4520bb66466d74",
+    "url": "/101CookbooksAPIReact/static/css/main.9bfeaeb4.chunk.css"
   },
   {
     "revision": "1660813374a74d710b86",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/101CookbooksAPIReact/static/js/2.b2979a10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "242170dfbad68893a608",
-    "url": "/101CookbooksAPIReact/static/js/main.ab60b660.chunk.js"
+    "revision": "aa2b0c4520bb66466d74",
+    "url": "/101CookbooksAPIReact/static/js/main.4d8b3625.chunk.js"
   },
   {
     "revision": "df395146e2f002f744ea",
     "url": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js"
   },
   {
-    "revision": "503a3a31b38e3ee5516fc04776defff7",
-    "url": "/101CookbooksAPIReact/static/media/WELCOME.503a3a31.jpg"
+    "revision": "a93beb65ca9793721992891c088eeeb7",
+    "url": "/101CookbooksAPIReact/static/media/WELCOME.a93beb65.png"
   },
   {
     "revision": "8f2e05e0187a35321a3548f9b96e121a",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/101CookbooksAPIReact/static/media/insta.dd1c3c6b.jpg"
   },
   {
-    "revision": "c644d1f21f25ebe4437931cc60c089bf",
-    "url": "/101CookbooksAPIReact/static/media/pic.c644d1f2.jpg"
+    "revision": "cb231ff1dae349d0d9dc637371ff5984",
+    "url": "/101CookbooksAPIReact/static/media/pic.cb231ff1.jpg"
   },
   {
     "revision": "3fea4d66c5352dfc01c4491b8dae6347",
