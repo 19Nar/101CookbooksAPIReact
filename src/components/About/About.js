@@ -66,6 +66,7 @@ const About = () => {
                   New York Times: Food for the People, Whipped Up by the People.
                 </h5>
                 <h5>2006 Food Blog Award Winner.</h5>
+                <h5>Finalist in the 2005 Weblog Awards.</h5>
               </Col>
               <Col xs="12" sm="12" md="6" lg="6" xl="6">
                 <img src={welcome} alt="WELCOME" />
