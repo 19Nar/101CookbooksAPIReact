@@ -15,9 +15,17 @@
 a.card-link {
   color: navy;
   text-decoration: none;
-  box-shadow: 0 0 11px 4px grey;
-  padding: 0.2rem;
-  margin-right: 2rem;
+  box-shadow: 0 0 2px 2px grey;
+  padding: 0.4rem;
+  margin-right: 0.5rem;
+}
+
+.button {
+  color: navy;
+  text-decoration: none;
+  box-shadow: 0 0 1px 1px grey;
+  padding: 0.4rem;
+  margin-left: 3.5rem;
 }
 
 input,

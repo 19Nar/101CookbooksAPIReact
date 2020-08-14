@@ -1,6 +1,7 @@
 .text-white {
-  box-shadow: 0 0 10px 10px grey;
-  padding-top: 2em; 
+  box-shadow: 0 0 3px 3px grey;
+  padding-top: 2em;
+  border-radius: 0.5rem;
 }
 
 h4 {

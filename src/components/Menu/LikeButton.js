@@ -1,12 +1,13 @@
 import React from "react";
 
+import "./Menu.css"
 class LikeButton extends React.Component {
   state = {
     likes: 0,
   };
   render() {
     return (
-      <button onClick={this.addLike} id={this.props.itemId}>
+      <button className="button" onClick={this.addLike} id={this.props.itemId}>
         Likes: {this.state.likes}
       </button>
     );

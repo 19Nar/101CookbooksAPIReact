@@ -12,7 +12,7 @@ const Map = () => {
     <Container>
       <Row>
         <Col xs="12" sm="12" md="6" lg="6" xl="6">
-          <Iframe
+          <Iframe className="map"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.359087048634!2d4.230127915269631!3d50.731828479515116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c8522d7c8013%3A0xbccf2b0f0514f35!2sBio-Planet%20Halle!5e0!3m2!1sen!2sbe!4v1594337286536!5m2!1sen!2sbe"
             width="450"
             height="250"
