@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/101CookbooksAPIReact/static/css/main.9bfeaeb4.chunk.css",
-    "main.js": "/101CookbooksAPIReact/static/js/main.4d8b3625.chunk.js",
-    "main.js.map": "/101CookbooksAPIReact/static/js/main.4d8b3625.chunk.js.map",
+    "main.js": "/101CookbooksAPIReact/static/js/main.c9de3b25.chunk.js",
+    "main.js.map": "/101CookbooksAPIReact/static/js/main.c9de3b25.chunk.js.map",
     "runtime-main.js": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js",
     "runtime-main.js.map": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js.map",
     "static/css/2.829c9cb5.chunk.css": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css",
     "static/js/2.b2979a10.chunk.js": "/101CookbooksAPIReact/static/js/2.b2979a10.chunk.js",
     "static/js/2.b2979a10.chunk.js.map": "/101CookbooksAPIReact/static/js/2.b2979a10.chunk.js.map",
     "index.html": "/101CookbooksAPIReact/index.html",
-    "precache-manifest.c98cd2506721515ca6efc499bf3c698a.js": "/101CookbooksAPIReact/precache-manifest.c98cd2506721515ca6efc499bf3c698a.js",
+    "precache-manifest.4f89ce183422bde0206fd7a33fb35184.js": "/101CookbooksAPIReact/precache-manifest.4f89ce183422bde0206fd7a33fb35184.js",
     "service-worker.js": "/101CookbooksAPIReact/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.9bfeaeb4.chunk.css.map": "/101CookbooksAPIReact/static/css/main.9bfeaeb4.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.b2979a10.chunk.js",
     "static/css/main.9bfeaeb4.chunk.css",
-    "static/js/main.4d8b3625.chunk.js"
+    "static/js/main.c9de3b25.chunk.js"
   ]
 }
