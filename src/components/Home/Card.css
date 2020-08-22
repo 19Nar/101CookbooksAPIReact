@@ -1,0 +1,94 @@
+.card-text {
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+  margin: 0rem;
+  font-weight: 300 !important;
+  color: black !important;
+  background-color: black;
+}
+
+button {
+  width: 0.2rem;
+  height: 0.2rem;
+  background-color: transparent;
+  border: transparent;
+}
+
+.next img {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.prev img {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-style: hidden;
+}
+
+button:focus {
+  outline: 0px;
+}
+
+.vegan img {
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  margin-top: 1rem;
+}
+
+.mango img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 450px;
+    height: 335px;
+    margin-top: 1rem;
+}
+
+.tomato img {
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  margin-top: 1rem;
+}
+
+.pudding img {
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  margin-top: 1rem;
+}
+
+.biscotti img {
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  height: 335px;
+  margin-top: 1rem;
+}
+
+.dip img {
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  margin-top: 1rem;
+}
+
+.next img {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-style: hidden;
+}
+
+.prev img {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-style: hidden;
+  text-align: justify;
+}
+
+.mnv {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: whitesmoke;
+  padding: 2rem;
+}

@@ -12,6 +12,7 @@
     "nuka-carousel": "^4.7.0",
     "pure-react-carousel": "^1.27.1",
     "react": "^16.13.1",
+    "react-card-flip": "^1.0.11",
     "react-dom": "^16.13.1",
     "react-iframe": "^1.8.0",
     "react-responsive-carousel": "^3.2.9",
