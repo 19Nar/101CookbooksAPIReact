@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/101CookbooksAPIReact/precache-manifest.086f2692d54d17eec9b0b611238cf888.js"
+  "/101CookbooksAPIReact/precache-manifest.bf1626ff1ffad491e7c17387d73825d8.js"
 );
 
 self.addEventListener('message', (event) => {
