@@ -14,9 +14,17 @@
   border: transparent;
 }
 
+button {
+  border-color: transparent;
+  background-color: transparent;
+}
+
 button:focus {
   outline: 0px;
+  border: transparent;
+  border-style: hidden;
 }
+
 
 .vegan img {
   background-color: transparent;

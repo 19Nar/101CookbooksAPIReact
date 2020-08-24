@@ -24,15 +24,16 @@ a.card-link {
 .button {
   color: navy;
   text-decoration: none;
-  box-shadow: 0 0 1px 1px grey;
   padding: 0.4rem;
   margin-left: 3.5rem;
   width: 70px;
   height: 40px;
+  border: transparent;
 }
 
 .button:focus {
   outline: 0px;
+  border: transparent;
 }
 
 
@@ -44,6 +45,7 @@ textarea {
   color: navy;
   text-decoration: none;
   padding: 0.2rem;
+  border: transparent;
 }
 
 .card {

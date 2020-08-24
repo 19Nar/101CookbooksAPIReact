@@ -216,7 +216,7 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-        µ{" "}
+        {" "}
       </Row>
     </Container>
   );
