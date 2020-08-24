@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/101CookbooksAPIReact/static/css/main.bb3cb247.chunk.css",
-    "main.js": "/101CookbooksAPIReact/static/js/main.6111ee7d.chunk.js",
-    "main.js.map": "/101CookbooksAPIReact/static/js/main.6111ee7d.chunk.js.map",
+    "main.js": "/101CookbooksAPIReact/static/js/main.aaa4269b.chunk.js",
+    "main.js.map": "/101CookbooksAPIReact/static/js/main.aaa4269b.chunk.js.map",
     "runtime-main.js": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js",
     "runtime-main.js.map": "/101CookbooksAPIReact/static/js/runtime-main.a4ff54fc.js.map",
     "static/css/2.829c9cb5.chunk.css": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.cfe20fdf.chunk.js": "/101CookbooksAPIReact/static/js/2.cfe20fdf.chunk.js",
-    "static/js/2.cfe20fdf.chunk.js.map": "/101CookbooksAPIReact/static/js/2.cfe20fdf.chunk.js.map",
+    "static/js/2.3da6d46b.chunk.js": "/101CookbooksAPIReact/static/js/2.3da6d46b.chunk.js",
+    "static/js/2.3da6d46b.chunk.js.map": "/101CookbooksAPIReact/static/js/2.3da6d46b.chunk.js.map",
     "index.html": "/101CookbooksAPIReact/index.html",
-    "precache-manifest.405a98d9360a24c86c4831255693df83.js": "/101CookbooksAPIReact/precache-manifest.405a98d9360a24c86c4831255693df83.js",
+    "precache-manifest.dc3fa28b9f9ceacabf5b7262952d7f5f.js": "/101CookbooksAPIReact/precache-manifest.dc3fa28b9f9ceacabf5b7262952d7f5f.js",
     "service-worker.js": "/101CookbooksAPIReact/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.bb3cb247.chunk.css.map": "/101CookbooksAPIReact/static/css/main.bb3cb247.chunk.css.map",
-    "static/js/2.cfe20fdf.chunk.js.LICENSE.txt": "/101CookbooksAPIReact/static/js/2.cfe20fdf.chunk.js.LICENSE.txt",
+    "static/js/2.3da6d46b.chunk.js.LICENSE.txt": "/101CookbooksAPIReact/static/js/2.3da6d46b.chunk.js.LICENSE.txt",
     "static/media/About.css": "/101CookbooksAPIReact/static/media/WELCOME.a93beb65.png",
     "static/media/biscotti.jpg": "/101CookbooksAPIReact/static/media/biscotti.fd84a680.jpg",
     "static/media/dip.jpg": "/101CookbooksAPIReact/static/media/dip.ba6096e2.jpg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.a4ff54fc.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.cfe20fdf.chunk.js",
+    "static/js/2.3da6d46b.chunk.js",
     "static/css/main.bb3cb247.chunk.css",
-    "static/js/main.6111ee7d.chunk.js"
+    "static/js/main.aaa4269b.chunk.js"
   ]
 }
