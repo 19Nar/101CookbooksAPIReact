@@ -96,7 +96,7 @@ const Contact = () => {
           />
 
           <button
-            className="button mt-4 shadow bg-dark text-white text focus:outline-none font-bold py-2 px-4 rounded"
+            className="mybutton mt-4 shadow bg-dark text-white text focus:outline-none font-bold py-2 px-4 rounded"
             onClick={(e) => submitForm(e)}
           >
             Submit

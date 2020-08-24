@@ -7,22 +7,11 @@
   background-color: black;
 }
 
-button {
+.next {
   width: 0.2rem;
   height: 0.2rem;
   background-color: transparent;
   border: transparent;
-}
-
-.next img {
-  width: 3.5rem;
-  height: 3.5rem;
-}
-
-.prev img {
-  width: 3.5rem;
-  height: 3.5rem;
-  border-style: hidden;
 }
 
 button:focus {
@@ -37,11 +26,11 @@ button:focus {
 }
 
 .mango img {
-    background-color: transparent;
-    margin-right: 2rem;
-    width: 450px;
-    height: 335px;
-    margin-top: 1rem;
+  background-color: transparent;
+  margin-right: 2rem;
+  width: 450px;
+  height: 335px;
+  margin-top: 1rem;
 }
 
 .tomato img {
@@ -77,13 +66,14 @@ button:focus {
   width: 3.5rem;
   height: 3.5rem;
   border-style: hidden;
+  border-color: transparent;
 }
 
 .prev img {
   width: 3.5rem;
   height: 3.5rem;
   border-style: hidden;
-  text-align: justify;
+  border-color: transparent;
 }
 
 .mnv {

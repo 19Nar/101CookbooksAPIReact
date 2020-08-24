@@ -3,8 +3,6 @@ import React, { useState } from "react";
 import ReactCardFlip from "react-card-flip";
 import { Container, Row, Col } from "reactstrap";
 
-import Card from "./Card";
-
 import next from "../icons/next.jpg";
 import prev from "../icons/prev.jpg";
 import vegan from "../icons/vegan.jpg";
@@ -56,7 +54,6 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Mango Breakfast Chia Pudding</h4>
           <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
@@ -89,7 +86,6 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Chocolate Fudge & Tahini Cake</h4>
           <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
@@ -123,7 +119,6 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Biscotti</h4>
           <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
@@ -156,7 +151,6 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Peace, Love & Energy Dip</h4>
           <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
@@ -189,7 +183,6 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Roasted Tomato & Sourdough Soup</h4>
           <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
@@ -223,7 +216,7 @@ const Text = () => {
             </div>
           </ReactCardFlip>
         </Col>
-        <Card />
+        µ{" "}
       </Row>
     </Container>
   );
