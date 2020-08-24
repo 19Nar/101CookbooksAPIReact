@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09fb64178f95d1954692d36897307422",
+    "revision": "3398024298c33bf6066ca6a73692539c",
     "url": "/101CookbooksAPIReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/101CookbooksAPIReact/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "1c2f0c94be8c6752bf74",
-    "url": "/101CookbooksAPIReact/static/css/main.bc4d08e8.chunk.css"
+    "revision": "68e2ea6203bfe28a66de",
+    "url": "/101CookbooksAPIReact/static/css/main.75f4d36d.chunk.css"
   },
   {
     "revision": "212ecb72172361f4cd14",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/101CookbooksAPIReact/static/js/2.cfe20fdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c2f0c94be8c6752bf74",
-    "url": "/101CookbooksAPIReact/static/js/main.3567ba7a.chunk.js"
+    "revision": "68e2ea6203bfe28a66de",
+    "url": "/101CookbooksAPIReact/static/js/main.3d091d11.chunk.js"
   },
   {
     "revision": "df395146e2f002f744ea",
