@@ -15,20 +15,40 @@ import mango from "../icons/mango.jpg";
 import "./Card.css";
 
 const Text = () => {
-  const [isFlipped, setIsFlipped] = useState(false);
+  const [isFlipped1, setIsFlipped1] = useState(false);
+  const [isFlipped2, setIsFlipped2] = useState(false);
+  const [isFlipped3, setIsFlipped3] = useState(false);
+  const [isFlipped4, setIsFlipped4] = useState(false);
+  const [isFlipped5, setIsFlipped5] = useState(false);
+  const [isFlipped6, setIsFlipped6] = useState(false);
 
-  const handleClick = () => {
-    setIsFlipped(!isFlipped);
+  const handleClick1 = () => {
+    setIsFlipped1 (!isFlipped1);
+  };
+  const handleClick2 = () => {
+    setIsFlipped2 (!isFlipped2);
+  };
+  const handleClick3 = () => {
+    setIsFlipped3 (!isFlipped3);
+  };
+  const handleClick4 = () => {
+    setIsFlipped4 (!isFlipped4);
+  };
+  const handleClick5 = () => {
+    setIsFlipped5 (!isFlipped5);
+  };
+  const handleClick6 = () => {
+    setIsFlipped6 (!isFlipped6);
   };
   return (
     <Container>
       <Row>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Super Natural Vegan Sushi</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped1} flipDirection="horizontal">
             <div className="vegan">
               <img src={vegan} alt="vegan" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick1}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -48,7 +68,7 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick1}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
@@ -56,10 +76,10 @@ const Text = () => {
         </Col>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Mango Breakfast Chia Pudding</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped2} flipDirection="horizontal">
             <div className="mango">
               <img src={mango} alt="mango" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick2}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -80,7 +100,7 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick2}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
@@ -88,10 +108,10 @@ const Text = () => {
         </Col>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Chocolate Fudge & Tahini Cake</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped3} flipDirection="horizontal">
             <div className="pudding">
               <img src={pudding} alt="pudding" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick3}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -113,7 +133,7 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick3}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
@@ -121,10 +141,10 @@ const Text = () => {
         </Col>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Biscotti</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped4} flipDirection="horizontal">
             <div className="biscotti">
               <img src={biscotti} alt="biscotti" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick4}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -145,7 +165,7 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick4}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
@@ -153,10 +173,10 @@ const Text = () => {
         </Col>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Peace, Love & Energy Dip</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped5} flipDirection="horizontal">
             <div className="dip">
               <img src={dip} alt="dip" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick5}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -177,7 +197,7 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick5}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
@@ -185,10 +205,10 @@ const Text = () => {
         </Col>
         <Col className="mnv" xs="12" sm="12" md="12" lg="6" xl="6">
           <h4>Roasted Tomato & Sourdough Soup</h4>
-          <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
+          <ReactCardFlip isFlipped={isFlipped6} flipDirection="horizontal">
             <div className="tomato">
               <img src={tomato} alt="service" />
-              <button className="next" onClick={handleClick}>
+              <button className="next" onClick={handleClick6}>
                 <img src={next} alt="next" />
               </button>
             </div>
@@ -210,13 +230,12 @@ const Text = () => {
                   Read more
                 </a>
               </p>
-              <button className="prev" onClick={handleClick}>
+              <button className="prev" onClick={handleClick6}>
                 <img src={prev} alt="prev" />
               </button>
             </div>
           </ReactCardFlip>
-        </Col>
-        {" "}
+        </Col>{" "}
       </Row>
     </Container>
   );
