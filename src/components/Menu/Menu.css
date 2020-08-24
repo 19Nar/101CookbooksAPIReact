@@ -16,7 +16,7 @@
 a.card-link {
   color: navy;
   text-decoration: none;
-  box-shadow: 0 0 2px 2px grey;
+  box-shadow: 0 0 0.5px 0.5px grey;
   padding: 0.4rem;
   margin-right: 0.5rem;
 }
