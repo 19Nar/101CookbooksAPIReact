@@ -5,7 +5,7 @@ import MenuResults from "./MenuResults";
 const Menu = () => {
   const [meals, setMeals] = useState([]);
   useEffect(() => {
-    fetch(`https://forkify-api.herokuapp.com/api/search?q=pizza`)
+    fetch(`https://forkify-api.herokuapp.com/api/search?q=salad`)
       .then((response) => response.json())
       .then((response) => {
         console.log(response);
