@@ -26,3 +26,10 @@ a.mx-3.link:hover {
 .navbar-light .navbar-toggler-icon {
   background-color: white;
 }
+
+@media screen and (max-width: 667px) {
+  .nav.nav.navbar.navbar-expand-md.navbar-light {
+    position: fixed;
+    width: 100%;
+  }
+}

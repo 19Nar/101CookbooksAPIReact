@@ -74,7 +74,7 @@ button:focus {
   width: 3.5rem;
   height: 3.5rem;
   border-style: hidden;
-  border-color: transparent;
+  border-color:transparent;
 }
 
 .prev img {
@@ -89,4 +89,78 @@ button:focus {
   margin-bottom: 1rem;
   background-color: whitesmoke;
   padding: 2rem;
+}
+
+@media screen and (max-width: 667px) {
+  h4 {
+    margin-left: 30%;
+    margin-top: 2rem;
+    font-size: 1rem;
+  }
+
+  .vegan img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    margin-top: 1rem;
+  }
+  
+  .mango img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    height: 200px;
+    margin-top: 1rem;
+  }
+  
+  .tomato img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    margin-top: 1rem;
+  }
+  
+  .pudding img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    margin-top: 1rem;
+  }
+  
+  .biscotti img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    height: 200px;
+    margin-top: 1rem;
+  }
+  
+  .dip img {
+    background-color: transparent;
+    margin-right: 2rem;
+    width: 250px;
+    margin-top: 1rem;
+  }
+  
+  .next img {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-style: hidden;
+    border-color:transparent;
+  }
+  
+  .prev img {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-style: hidden;
+    border-color: transparent;
+  }
+  
+  .mnv {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: whitesmoke;
+    padding: 2rem;
+  }
+  
 }
